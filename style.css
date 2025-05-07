@@ -1,0 +1,19 @@
+h1{
+    background-color: beige;
+    color: black;
+}
+
+h1{
+    background-color: maroon;
+    color: rgb(255, 255, 255);
+    margin: 100px;
+    content:;
+    border: 10px black;
+    padding: 5px;
+
+}
+
+h2{
+    background-color: maroon;
+    color: rgb(255, 255, 255);
+}
